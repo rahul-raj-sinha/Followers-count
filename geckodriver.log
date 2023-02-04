@@ -1,0 +1,1180 @@
+1674931971916	geckodriver	INFO	Listening on 127.0.0.1:52286
+1674931975035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileo04AW5"
+1674931975489	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674931975495	Marionette	INFO	Listening on port 52294
+Read port: 52294
+WebDriver BiDi listening on ws://127.0.0.1:52287
+1674931975656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileo04AW5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52287/devtools/browser/e32c5e00-f823-42df-b0ec-d6d0b27dd781
+[2023-01-28T18:52:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T18:52:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T18:52:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T18:52:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674932185179	Marionette	INFO	Stopped listening on port 52294
+Dynamically enable window occlusion 1
+2365
+Read port: 52365
+WebDriver BiDi listening on ws://127.0.0.1:52358
+1674932081343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilelOInSS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52358/devtools/browser/022e4628-6aec-44e2-992b-0ef7cbb7a056
+[2023-01-28T18:54:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T18:54:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T18:54:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T18:54:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1674932110702	Marionette	INFO	Stopped listening on port 52365
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674932266919	geckodriver	INFO	Listening on 127.0.0.1:52482
+1674932269978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileul39ri"
+1674932270378	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674932270383	Marionette	INFO	Listening on port 52490
+Read port: 52490
+WebDriver BiDi listening on ws://127.0.0.1:52483
+1674932270516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileul39ri\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52483/devtools/browser/91bc0383-ff26-496e-ad61-889bf3fba794
+[2023-01-28T18:57:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T18:57:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T18:57:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T18:57:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1674932426418	Marionette	INFO	Stopped listening on port 52490
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674932473899	geckodriver	INFO	Listening on 127.0.0.1:52605
+1674932476979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileAIaCxi"
+1674932477340	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674932477345	Marionette	INFO	Listening on port 52613
+WebDriver BiDi listening on ws://127.0.0.1:52606
+Read port: 52613
+1674932477577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileAIaCxi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52606/devtools/browser/15da30af-7ca2-41aa-8953-1ad2fdacad03
+[2023-01-28T19:01:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:01:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:01:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:01:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1674932856289	Marionette	INFO	Stopped listening on port 52613
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileyIn4Ag"
+1674932518223	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674932518228	Marionette	INFO	Listening on port 52680
+Read port: 52680
+WebDriver BiDi listening on ws://127.0.0.1:52672
+1674932518357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileyIn4Ag\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52672/devtools/browser/9e3bf6bc-380a-4a4d-8a5d-60c870a85948
+[2023-01-28T19:02:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:02:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:02:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:02:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1674932853565	Marionette	INFO	Stopped listening on port 52680
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile5hwr08"
+1674932699583	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674932699588	Marionette	INFO	Listening on port 52813
+Read port: 52813
+WebDriver BiDi listening on ws://127.0.0.1:52806
+1674932699720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile5hwr08\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52806/devtools/browser/53cc33ac-40f5-4d37-876c-82d270252e81
+[2023-01-28T19:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1674932854537	Marionette	INFO	Stopped listening on port 52813
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilezqhv6A"
+1674932788481	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674932788487	Marionette	INFO	Listening on port 52903
+Read port: 52903
+WebDriver BiDi listening on ws://127.0.0.1:52895
+1674932788653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilezqhv6A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52895/devtools/browser/3969c97c-0258-44cc-9840-7baa4a06a656
+[2023-01-28T19:06:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:06:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:06:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:06:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1674932855544	Marionette	INFO	Stopped listening on port 52903
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674934367936	geckodriver	INFO	Listening on 127.0.0.1:53695
+1674934371144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile04JEKO"
+1674934371600	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674934371605	Marionette	INFO	Listening on port 53704
+Read port: 53704
+WebDriver BiDi listening on ws://127.0.0.1:53696
+1674934371733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile04JEKO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53696/devtools/browser/afa8b6a9-3821-4647-b94e-b369b60975ff
+[2023-01-28T19:32:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:32:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:32:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:32:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1674934389054	Marionette	INFO	Stopped listening on port 53704
+Dynamically enable window occlusion 1
+1674934599568	geckodriver	INFO	Listening on 127.0.0.1:53886
+1674934602648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile5jdGhz"
+1674934603046	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674934603051	Marionette	INFO	Listening on port 53895
+Read port: 53895
+WebDriver BiDi listening on ws://127.0.0.1:53887
+1674934603179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile5jdGhz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53887/devtools/browser/bdb5be94-c534-4e4a-8593-8b5e53db153f
+[2023-01-28T19:36:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:36:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:36:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:36:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1674934724329	Marionette	INFO	Stopped listening on port 53895
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674935047667	geckodriver	INFO	Listening on 127.0.0.1:54174
+1674935050748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilewq8vwu"
+1674935051120	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674935051124	Marionette	INFO	Listening on port 54182
+Read port: 54182
+WebDriver BiDi listening on ws://127.0.0.1:54175
+1674935051248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilewq8vwu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54175/devtools/browser/fefe80c3-9712-4562-ba12-1cef0e666327
+[2023-01-28T19:44:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:44:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:44:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:44:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.dd763b0a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yF/l/en_US/O4onDaVW35_.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674935165401	Marionette	INFO	Stopped listening on port 54182
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileD7ydzP"
+1674935163012	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674935163017	Marionette	INFO	Listening on port 54278
+Read port: 54278
+WebDriver BiDi listening on ws://127.0.0.1:54271
+1674935163251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileD7ydzP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54271/devtools/browser/02a67fa7-041a-4683-8a96-4aa102802427
+[2023-01-28T19:46:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:46:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:46:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:46:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.dd763b0a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yF/l/en_US/O4onDaVW35_.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674935379297	Marionette	INFO	Stopped listening on port 54278
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileEAuNAS"
+1674935375691	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674935375695	Marionette	INFO	Listening on port 54465
+Read port: 54465
+WebDriver BiDi listening on ws://127.0.0.1:54455
+1674935375836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileEAuNAS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54455/devtools/browser/b0f34ad2-d186-47f9-bc0f-fb9d21b9e3c2
+[2023-01-28T19:49:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:49:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:49:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:49:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.dd763b0a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yF/l/en_US/O4onDaVW35_.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674935766263	Marionette	INFO	Stopped listening on port 54465
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/focus-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+1674935770964	geckodriver	INFO	Listening on 127.0.0.1:54790
+1674935774032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileIq3lSQ"
+1674935774523	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674935774527	Marionette	INFO	Listening on port 54808
+Read port: 54808
+WebDriver BiDi listening on ws://127.0.0.1:54791
+1674935774658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileIq3lSQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54791/devtools/browser/6ef13764-2f84-439e-96a1-e4f40d35e30e
+[2023-01-28T19:56:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:56:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:56:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:56:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yt/l/en_GB/WBb30cGm33Q.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ial24/yT/l/makehaste_jhash/xzXQzoe_PaV.js?_nc_x=nXkJos812to, line 153: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ikb-4/y5/l/makehaste_jhash/LHdaTtqhd0pIwA6ZfvH6v-m-Bbp325hO6myvOp5RwqT3nYEvo7hq0QAcJhFRxvJZUGNwUjpBHBRCNthOyVC-EujFS13EL3_GeOj_yxrknjeOQkZQllFv7EHElsvKe0U2zuXRJTsWJrxmFpHFkYQplVuQD5dYbfx6B58SxDZ2LMC23bJubX9y7YqOuoSv00Sr9G3-Ub.js?_nc_x=nXkJos812to, line 936: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ikb-4/y5/l/makehaste_jhash/LHdaTtqhd0pIwA6ZfvH6v-m-Bbp325hO6myvOp5RwqT3nYEvo7hq0QAcJhFRxvJZUGNwUjpBHBRCNthOyVC-EujFS13EL3_GeOj_yxrknjeOQkZQllFv7EHElsvKe0U2zuXRJTsWJrxmFpHFkYQplVuQD5dYbfx6B58SxDZ2LMC23bJubX9y7YqOuoSv00Sr9G3-Ub.js?_nc_x=nXkJos812to, line 936: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1674935827711	Marionette	INFO	Stopped listening on port 54808
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674935834036	geckodriver	INFO	Listening on 127.0.0.1:54904
+1674935837100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilemfXfaa"
+1674935837490	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674935837495	Marionette	INFO	Listening on port 54913
+Read port: 54913
+WebDriver BiDi listening on ws://127.0.0.1:54905
+1674935837614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilemfXfaa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54905/devtools/browser/43df90ea-3a12-4290-8f6b-74f81c6027c7
+[2023-01-28T19:57:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:57:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:57:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T19:57:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.dd763b0a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yt/l/en_GB/WBb30cGm33Q.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674936451941	Marionette	INFO	Stopped listening on port 54911674936452122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilekZLXOi"
+1674936452582	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674936452587	Marionette	INFO	Listening on port 55310
+WebDriver BiDi listening on ws://127.0.0.1:55299
+Read port: 55310
+1674936452838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilekZLXOi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55299/devtools/browser/7bfc141f-0602-450e-93e8-9d97fe868472
+[2023-01-28T20:07:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:07:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:07:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:07:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674936501233	Marionette	INFO	Stopped listening on port 55310
+Dynamically enable window occlusion 1
+1674936508869	geckodriver	INFO	Listening on 127.0.0.1:55414
+1674936511931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofiletQ0bz2"
+1674936512229	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674936512232	Marionette	INFO	Listening on port 55426
+Read port: 55426
+WebDriver BiDi listening on ws://127.0.0.1:55415
+1674936512335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofiletQ0bz2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55415/devtools/browser/30fb6aef-1b2d-4589-9146-937668dff3c5
+[2023-01-28T20:08:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:08:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:08:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:08:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1674936529618	Marionette	INFO	Stopped listening on port 55426
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674936554524	geckodriver	INFO	Listening on 127.0.0.1:55530
+1674936557573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilewfG67a"
+1674936557865	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674936557868	Marionette	INFO	Listening on port 55540
+Read port: 55540
+WebDriver BiDi listening on ws://127.0.0.1:55531
+1674936557976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilewfG67a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55531/devtools/browser/ea12f333-6d07-4536-9630-7206590fe2ed
+[2023-01-28T20:09:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:09:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:09:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:09:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1674936567, line 2453: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CVWD2nJNUzbSofuWlZwBPxvQXb897jpMaT8Oq2Cr1NY.js line 2 > eval line 1154 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674936590477	Marionette	INFO	Stopped listening on port 55540
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674936628514	geckodriver	INFO	Listening on 127.0.0.1:55846
+1674936631578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilerlYFOG"
+1674936631864	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674936631868	Marionette	INFO	Listening on port 55858
+Read port: 55858
+WebDriver BiDi listening on ws://127.0.0.1:55847
+1674936631973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilerlYFOG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55847/devtools/browser/918c38b0-4792-4d9c-984e-6db9c8fbc0fb
+[2023-01-28T20:10:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:10:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:10:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:10:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1674936641, line 2453: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CVWD2nJNUzbSofuWlZwBPxvQXb897jpMaT8Oq2Cr1NY.js line 2 > eval line 363 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674936683255	Marionette	INFO	Stopped listening on port 55858
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674936883002	geckodriver	INFO	Listening on 127.0.0.1:56333
+1674936886062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilervleGB"
+*** You are running in headless mode.
+1674936886354	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674936886358	Marionette	INFO	Listening on port 56343
+Read port: 56343
+WebDriver BiDi listening on ws://127.0.0.1:56334
+1674936886448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilervleGB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56334/devtools/browser/80121a3a-45b3-4d04-bc78-d5a4d3af85b7
+[2023-01-28T20:14:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:14:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:14:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:14:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/actors/AutoplayParent.jsm, line 13: TypeError: browser is null
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1674936894, line 2453: unreachable code after return statement
+1674936894176	Marionette	INFO	Stopped listening on port 56343
+Dynamically enable window occlusion 1
+1674937971276	geckodriver	INFO	Listening on 127.0.0.1:62928
+1674937974341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileWflu5v"
+*** You are running in headless mode.
+1674937974680	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674937974683	Marionette	INFO	Listening on port 62958
+WebDriver BiDi listening on ws://127.0.0.1:62929
+Read port: 62958
+1674937974978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileWflu5v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62929/devtools/browser/0f67be28-c5bf-4c43-8574-18e43788a7b9
+[2023-01-28T20:32:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:32:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:32:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:32:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1674937983, line 2453: unreachable code after return statement
+1674938004077	Marionette	INFO	Stopped listening on port 62958
+Dynamically enable window occlusion 1
+1674938275698	geckodriver	INFO	Listening on 127.0.0.1:63639
+1674938278771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63640" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileM0Vqj1"
+*** You are running in headless mode.
+1674938279101	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674938279106	Marionette	INFO	Listening on port 63648
+WebDriver BiDi listening on ws://127.0.0.1:63640
+Read port: 63648
+1674938279340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileM0Vqj1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63640/devtools/browser/0185e3d3-1335-490f-b5b8-eb70d1f08c2f
+[2023-01-28T20:38:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:38:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:38:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:38:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/actors/AutoplayParent.jsm, line 13: TypeError: browser is null
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1674938288, line 2453: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CVWD2nJNUzbSofuWlZwBPxvQXb897jpMaT8Oq2Cr1NY.js line 2 > eval line 4588 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+1674938308885	Marionette	INFO	Stopped listening on port 63648
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674938382828	geckodriver	INFO	Listening on 127.0.0.1:63960
+1674938385887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileVEht6d"
+*** You are running in headless mode.
+1674938386186	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674938386191	Marionette	INFO	Listening on port 63970
+Read port: 63970
+WebDriver BiDi listening on ws://127.0.0.1:63961
+1674938386285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileVEht6d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63961/devtools/browser/83c78746-fad2-4531-8cec-bc4cf9033cb3
+[2023-01-28T20:39:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:39:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:39:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-28T20:39:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1674938395, line 2453: unreachable code after return statement
+1674938395550	Marionette	INFO	Stopped listening on port 63970
+Dynamically enable window occlusion 1
+1675008296438	geckodriver	INFO	Listening on 127.0.0.1:53535
+1675008299644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53536" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilesPTX7D"
+*** You are running in headless mode.
+1675008300250	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675008300256	Marionette	INFO	Listening on port 53545
+Read port: 53545
+WebDriver BiDi listening on ws://127.0.0.1:53536
+1675008300393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilesPTX7D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53536/devtools/browser/9eb7c23d-3dbf-439c-a1e9-ee9c89fb6877
+[2023-01-29T16:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:05:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675008308, line 2453: unreachable code after return statement
+1675008314753	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5766 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675008335069	Marionette	INFO	Stopped listening on port 53545
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1675008462818	geckodriver	INFO	Listening on 127.0.0.1:64468
+1675008465896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile5sdZS5"
+*** You are running in headless mode.
+1675008466314	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675008466318	Marionette	INFO	Listening on port 64479
+Read port: 64479
+WebDriver BiDi listening on ws://127.0.0.1:64469
+1675008466434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile5sdZS5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64469/devtools/browser/acdb5831-663f-405a-adba-a3a43d37488a
+[2023-01-29T16:07:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:07:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:07:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:07:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675008473, line 2453: unreachable code after return statement
+1675008482135	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1675008496836	Marionette	INFO	Stopped listening on port 64479
+Dynamically enable window occlusion 1
+1675008521747	geckodriver	INFO	Listening on 127.0.0.1:64778
+1675008524788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileonnKBM"
+*** You are running in headless mode.
+1675008525211	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675008525214	Marionette	INFO	Listening on port 64788
+Read port: 64788
+WebDriver BiDi listening on ws://127.0.0.1:64779
+1675008525328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileonnKBM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64779/devtools/browser/ab8de119-7352-49fb-aff5-e21a3ee3f6cb
+[2023-01-29T16:08:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:08:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:08:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:08:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675008532, line 2453: unreachable code after return statement
+1675008537396	Marionette	INFO	Stopped listening on port 64788
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1675008607112	geckodriver	INFO	Listening on 127.0.0.1:64988
+1675008610179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileavScdS"
+*** You are running in headless mode.
+1675008610579	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675008610583	Marionette	INFO	Listening on port 64998
+Read port: 64998
+WebDriver BiDi listening on ws://127.0.0.1:64989
+1675008610694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileavScdS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64989/devtools/browser/1d39a42b-a202-4427-b127-300702f4fd28
+[2023-01-29T16:10:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:10:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:10:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:10:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675008619, line 2453: unreachable code after return statement
+1675008624350	Marionette	INFO	Stopped listening on port 64998
+Dynamically enable window occlusion 1
+1675008672951	geckodriver	INFO	Listening on 127.0.0.1:65185
+1675008676042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65186" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile3Vsfqy"
+*** You are running in headless mode.
+1675008676750	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675008676754	Marionette	INFO	Listening on port 65195
+Read port: 65195
+WebDriver BiDi listening on ws://127.0.0.1:65186
+1675008676888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile3Vsfqy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65186/devtools/browser/6a222170-4c50-46f3-86f1-14934c52a366
+[2023-01-29T16:11:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:11:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:11:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:11:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675008683, line 2453: unreachable code after return statement
+1675008691652	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1675008712695	Marionette	INFO	Stopped listening on port 65195
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1675009678283	geckodriver	INFO	Listening on 127.0.0.1:53898
+1675009681344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile8JfTP6"
+*** You are running in headless mode.
+1675009681812	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675009681818	Marionette	INFO	Listening on port 53908
+Read port: 53908
+WebDriver BiDi listening on ws://127.0.0.1:53899
+1675009682018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile8JfTP6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53899/devtools/browser/4e787c9b-749b-4e8d-a57f-cce4dabac827
+[2023-01-29T16:28:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:28:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:28:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T16:28:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675009692, line 2453: unreachable code after return statement
+1675009701094	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1675009726937	Marionette	INFO	Stopped listening on port 53908
+Dynamically enable window occlusion 1
+1675012538908	geckodriver	INFO	Listening on 127.0.0.1:56101
+1675012541970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileCqiGfF"
+*** You are running in headless mode.
+1675012542596	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675012542600	Marionette	INFO	Listening on port 56110
+Read port: 56110
+WebDriver BiDi listening on ws://127.0.0.1:56102
+1675012542731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileCqiGfF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56102/devtools/browser/9ee4a766-dea5-4958-a63b-f8f8858940b4
+[2023-01-29T17:15:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:15:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:15:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:15:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675012550, line 2453: unreachable code after return statement
+1675012578892	Marionette	INFO	Stopped listening on port 56110
+Dynamically enable window occlusion 1
+1675012946786	geckodriver	INFO	Listening on 127.0.0.1:52442
+1675012949864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileczwjj9"
+*** You are running in headless mode.
+1675012950478	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675012950483	Marionette	INFO	Listening on port 52453
+Read port: 52453
+WebDriver BiDi listening on ws://127.0.0.1:52443
+1675012950622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileczwjj9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52443/devtools/browser/e6cf1173-486e-4395-8765-a01c035240ac
+[2023-01-29T17:22:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:22:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:22:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:22:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675012958, line 2453: unreachable code after return statement
+1675012960222	Marionette	INFO	Stopped listening on port 52453
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1675013572181	geckodriver	INFO	Listening on 127.0.0.1:52984
+1675013575258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilegv6PJv"
+*** You are running in headless mode.
+1675013575718	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675013575722	Marionette	INFO	Listening on port 52993
+WebDriver BiDi listening on ws://127.0.0.1:52985
+Read port: 52993
+1675013575933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilegv6PJv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52985/devtools/browser/43a4f4b0-a9b7-4291-9838-fed28a21e6d3
+[2023-01-29T17:33:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:33:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:33:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:33:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675013584, line 2453: unreachable code after return statement
+1675013587231	Marionette	INFO	Stopped listening on port 52993
+Dynamically enable window occlusion 1
+1675013719703	geckodriver	INFO	Listening on 127.0.0.1:53156
+1675013722776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilescxPSF"
+*** You are running in headless mode.
+1675013723146	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675013723150	Marionette	INFO	Listening on port 53164
+Read port: 53164
+WebDriver BiDi listening on ws://127.0.0.1:53157
+1675013723269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilescxPSF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53157/devtools/browser/8876ac5f-15ec-4861-a8b8-d05944ebffe1
+[2023-01-29T17:35:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:35:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:35:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T17:35:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675013731, line 2453: unreachable code after return statement
+1675013762004	Marionette	INFO	Stopped listening on port 53164
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1675081295510	geckodriver	INFO	Listening on 127.0.0.1:55282
+1675081298593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileiO9NxC"
+*** You are running in headless mode.
+1675081299005	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675081299009	Marionette	INFO	Listening on port 55290
+Read port: 55290
+WebDriver BiDi listening on ws://127.0.0.1:55283
+1675081299115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileiO9NxC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55283/devtools/browser/3ef215d8-1320-440c-973c-00f62149e7de
+[2023-01-30T12:21:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:21:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:21:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:21:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675081307, line 2453: unreachable code after return statement
+1675081312024	Marionette	INFO	Stopped listening on port 55290
+Dynamically enable window occlusion 1
+1675081364652	geckodriver	INFO	Listening on 127.0.0.1:55450
+1675081367705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile6tUA3a"
+*** You are running in headless mode.
+1675081367986	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675081367990	Marionette	INFO	Listening on port 55459
+Read port: 55459
+WebDriver BiDi listening on ws://127.0.0.1:55451
+1675081368084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile6tUA3a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55451/devtools/browser/ff0ddbb8-df2e-4967-9171-16119ba62d64
+[2023-01-30T12:22:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:22:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:22:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:22:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675081377, line 2453: unreachable code after return statement
+1675081380448	Marionette	INFO	Stopped listening on port 55459
+Dynamically enable window occlusion 1
+1675081775660	geckodriver	INFO	Listening on 127.0.0.1:59837
+1675081778714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilepSIoSv"
+*** You are running in headless mode.
+1675081779123	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675081779128	Marionette	INFO	Listening on port 59846
+Read port: 59846
+WebDriver BiDi listening on ws://127.0.0.1:59838
+1675081779250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilepSIoSv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59838/devtools/browser/f437097c-8480-433f-a5fb-ae5af35cc005
+[2023-01-30T12:29:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:29:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:29:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:29:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675081785, line 2453: unreachable code after return statement
+1675081789327	Marionette	INFO	Stopped listening on port 59846
+Dynamically enable window occlusion 1
+1675081887046	geckodriver	INFO	Listening on 127.0.0.1:59989
+1675081890123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59990" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilenWtHeX"
+*** You are running in headless mode.
+1675081890504	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675081890508	Marionette	INFO	Listening on port 59997
+Read port: 59997
+WebDriver BiDi listening on ws://127.0.0.1:59990
+1675081890623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilenWtHeX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59990/devtools/browser/c0791c09-6312-48a7-9a64-a49331eb8579
+[2023-01-30T12:31:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:31:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:31:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-30T12:31:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.3410484a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675081896, line 2453: unreachable code after return statement
+1675081901930	Marionette	INFO	Stopped listening on port 59997
+Dynamically enable window occlusion 1
+1675150319015	geckodriver	INFO	Listening on 127.0.0.1:54753
+1675150322122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile6kJwgM"
+*** You are running in headless mode.
+1675150322695	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675150322701	Marionette	INFO	Listening on port 54761
+Read port: 54761
+WebDriver BiDi listening on ws://127.0.0.1:54754
+1675150322837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile6kJwgM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54754/devtools/browser/de1e1b18-9c35-4415-a51e-98b846a9a6bb
+[2023-01-31T07:32:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-31T07:32:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-31T07:32:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-31T07:32:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.69b3c14a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript warning: https://www.picuki.com/app/assets/js/main.js?v=1675150331, line 2453: unreachable code after return statement
+1675150335317	Marionette	INFO	Stopped listening on port 54761
+Dynamically enable window occlusion 1
